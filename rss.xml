@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Born in love.]]></title>
         <description><![CDATA[Born in love.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/born-in-love/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 18:51:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 18:58:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/born-in-love/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Life is here]]></title>
             <description><![CDATA[<article><h1>Life is here</h1><p>Born in love. I love from. I free myself when I know where I am coming from. Here I am and stand alone. Now I walk the world fully grown. Meet me here in this life I welcome you here own this throne.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/40f74edf-1aa3-4144-ac43-1e1cec06ee20.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/40f74edf-1aa3-4144-ac43-1e1cec06ee20.jpg</link>
             <guid isPermaLink="false">6fd4a146-283f-44b2-8e50-c913228f2e4c</guid>
-            <pubDate>Sat, 16 Jul 2016 18:51:17 GMT</pubDate>
+            <pubDate>Sat, 16 Jul 2016 18:58:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
